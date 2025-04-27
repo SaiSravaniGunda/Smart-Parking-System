@@ -103,5 +103,3 @@ Special thanks to **Tinkercad** for simulation and **Arduino Community** for sup
 
 ---
 
-## 📞 Need Help?
-If you have any questions, feel free to reach out! 🚗💨
